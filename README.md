@@ -1,6 +1,6 @@
 This fork of Snap just removes the button to go from the full-screen mode to the mode where you can see the code.  It's just a fairly weak attempt to hide the code.  
 
-But you don't need to use this version of snap.  You can just add &hideControls to the end of the normal snap url to get the same effect.  Here's an example: https://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-1/lab1.4-part3.xml&hideControls  
+But you don't need to use this version of snap.  You can just add &hideControls to the end of the normal snap url to get the same effect (though that will also hide the green flag, pause, and stop buttons, in addition to the minimize button).  Here's an example: https://snap.berkeley.edu/snapsource/snap.html#run:https://raw.githubusercontent.com/aelcs/snap-examples/master/unit-1/lab1.4-part3.xml&hideControls  
 
 
 -------------------
